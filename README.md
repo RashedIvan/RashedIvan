@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋, I'm Rashed,
 
-<!--
-**RashedIvan/RashedIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A  Software engineer and machine learning enthusiast from Bangladesh
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React.js, TensorFlow, TypeScript, ES6, MongoDB**
+- 💬 Ask me about **React.js, ES6**
+- 📫 How to reach me , rashedivan0@gmail.com
+- ⚡ Fun fact, I love CSE! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/rashedul-islam-4a52b71b0/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook)](https://www.facebook.com/TheDeveloperRashed)
+
+### Languages and Tools:
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
+
