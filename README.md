@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Rashed,
 
-A  Software engineer and machine learning enthusiast from Bangladesh
+A  software engineer and machine learning enthusiast from Bangladesh
 
 - 🌱 I’m currently learning **React.js, TensorFlow, TypeScript, ES6, MongoDB**
 - 💬 Ask me about **React.js, ES6**
