@@ -3,7 +3,7 @@
 A  software engineer and machine learning enthusiast from Bangladesh
 
 - 🌱 I’m currently learning **ML,DL,React.js, TensorFlow, TypeScript, ES6, MongoDB**
-- 💬 Ask me about **React.js, ES6**
+- 💬 Ask me about **C, C++, Java, Pyhton, ML,DL, React.js, ES6**
 - 📫 How to reach me , rashedivan0@gmail.com
 - ⚡ Fun fact, I love CSE! 
 
