@@ -7,7 +7,7 @@ A  software engineer and machine learning enthusiast from Bangladesh
 - 📫 How to reach me , rashedivan0@gmail.com
 - ⚡ Fun fact, I love CSE!
 
-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashedIvan&show_icons=true&theme=dark)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashedIvan&show_icons=true&theme=dark)
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/rashedul-islam-4a52b71b0/)
